@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repositorio.alado" name="[COLOR lime]Alado[/COLOR][COLOR yellow]Repository[/COLOR]" version="0.0.1" provider-name="AladoTV">
+	<extension point="xbmc.addon.repository" name="Alado Repository">
+		<info compressed="false">http://raw.github.com/Alado2020/repositorio.alado/master/addons.xml</info>
+		<checksum>http://raw.github.com/Alado2020/repositorio.alado/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/Alado2020/repositorio.alado/blob/master/addons/repositorio.alado/repositorio.alado-0.0.1.zip</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>By Alado</summary>
+		<description>By Alado</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
