@@ -2,9 +2,9 @@
 <addons>
 <addon id="repositorio.alado" name="[COLOR limegreen]Alado[/COLOR][COLOR yellow] Repository[/COLOR]" version="0.0.2" provider-name="AladoTV">
 	<extension point="xbmc.addon.repository" name="Alado Repository">
-		<info compressed="false">http://raw.github.com/Alado2020/repositorio.alado/master/addons.xml</info>
-		<checksum>http://raw.github.com/Alado2020/repositorio.alado/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/Alado2020/repositorio.alado/master/repo</datadir>
+		<info compressed="false">http://raw.github.com/Litium333/repositorio.alado/master/addons.xml</info>
+		<checksum>http://raw.github.com/Litium333/repositorio.alado/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/Litium333/repositorio.alado/master/repo</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>[COLOR limegreen]By Alado[/COLOR]</summary>
